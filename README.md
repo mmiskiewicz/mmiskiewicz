@@ -13,7 +13,7 @@
 
 **`🐍 Python Developer`**
 
-Recent CS graduate with a proven academic track record. Strong foundation in software development concepts and eagerness to learn new technologies. Ready to make meaningful contributions to a team of highly motivated, like-minded people. Hit me up if you think I'm the guy you're looking for.
+Recent CS graduate with a proven academic track record 🎓 Strong foundation in software development concepts and eagerness to learn new technologies 💻 Ready to make meaningful contributions to a team of highly motivated, like-minded people 👨🧔👧 Hit me up if you think I'm the guy you're looking for 📞
 
 #
 
