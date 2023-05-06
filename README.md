@@ -1,6 +1,48 @@
 <h1 align="center">
   <img src=https://user-images.githubusercontent.com/32812860/228994946-09781515-b6c1-4e54-8cbe-478e84c679c3.gif></img>
   </h1>
+
+# 🐍 Mateusz Miśkiewicz
+
+**`Python Developer`**
+
+Python developer, building his own version of digital world one step at a time.
+
+<p align="left">
+<a href="https://github.com/mmiskiewicz?tab=repositories">
+<img alt="my-repos" title="My repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<img alt="current-location" title="Current location" src="https://custom-icon-badges.demolab.com/badge/Gdansk-Poland-purple?style=for-the-badge&logo=location&logoColor=white"/>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+<img align="left" alt="Python" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Flask" width="60px" src="https://user-images.githubusercontent.com/32812860/236621757-b4489c8f-3bfb-4ee6-9f36-75dc94c4715a.png" style="padding-right:20px; border-radius: 50%;" />
+<img align="left" alt="Django" width="60px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/32812860/236620104-d074caac-f559-4d33-978d-ce500eed7f7a.jpg"/>
+<img align="left" alt="Git" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="60px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/32812860/236620269-e32b59b1-1a7a-432f-b7bf-1a84e9ad2c5a.png" />
+<img align="left" alt="PostgreSQL" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="SQLite" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="HTML" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Linux" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Jupyter" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="PyCharm" width="60px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/32812860/236621812-97b00a38-967d-4799-af4e-1adac1c979aa.png" />
+
+<br />
+
+# 
+
+### 📊 Stats
+
+| <img src="https://github-readme-stats.vercel.app/api?username=mmiskiewicz&show_icons=true&theme=radical" /> | <img src="https://streak-stats.demolab.com?user=mmiskiewicz&theme=radical&border_radius=4.5" /> | 
+| ------------- | ------------- |
+
+#
+
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 <p>👋 Thanks for swinging by! I'm Mateusz and I really do appreciate your taking the time to get acquainted with my profile!</p>
 <p></p>
 <p>It's such a cliché, but I've been passionate about programming since I was a little kid 👶 I still vividly remember the time when I was running a website dedicated entirely on Worms video game series 🎮 (if you haven't played it, please do, because it's awesome!). I had 5 active users (at best) on daily basis and I felt like I was on top of the world. Don't get any ideas. I'm not going to share it with you, because I'd be embarrassed 😅 </p>
