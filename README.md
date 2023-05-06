@@ -1,12 +1,14 @@
-<h1 align="center">
+<p align="center">
   <img src=https://user-images.githubusercontent.com/32812860/228994946-09781515-b6c1-4e54-8cbe-478e84c679c3.gif></img>
-  </h1>
+  </p>
 
-# 🐍 Mateusz Miśkiewicz
+# Mateusz Miśkiewicz
 
-**`Python Developer`**
+**`🐍 Python Developer`**
 
-Python developer, building his own version of digital world one step at a time.
+Recent CS graduate with a proven academic track record. Strong foundation of software development concepts and eagerness to learn new technologies. Ready to make meaningful contributions to a team of highly motivated, like-minded people. Hit me up if you think I'm the guy you're looking for.
+
+
 
 <p align="left">
 <a href="https://github.com/mmiskiewicz?tab=repositories">
@@ -17,22 +19,25 @@ Python developer, building his own version of digital world one step at a time.
 ---
 
 ### 🧰 Languages and Tools
-<img align="left" alt="Python" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Flask" width="60px" src="https://user-images.githubusercontent.com/32812860/236621757-b4489c8f-3bfb-4ee6-9f36-75dc94c4715a.png" style="padding-right:20px; border-radius: 50%;" />
-<img align="left" alt="Django" width="60px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/32812860/236620104-d074caac-f559-4d33-978d-ce500eed7f7a.jpg"/>
-<img align="left" alt="Git" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="60px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/32812860/236620269-e32b59b1-1a7a-432f-b7bf-1a84e9ad2c5a.png" />
-<img align="left" alt="PostgreSQL" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="SQLite" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="HTML" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Linux" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Jupyter" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="PyCharm" width="60px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/32812860/236621812-97b00a38-967d-4799-af4e-1adac1c979aa.png" />
 
-<br />
-
-# 
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse;"><tr><td>
+<img align="left" alt="Python" width="60px" style="padding:20px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Flask" width="60px" src="https://user-images.githubusercontent.com/32812860/236621757-b4489c8f-3bfb-4ee6-9f36-75dc94c4715a.png" style="padding:20px; margin:20px;" />
+<img align="left" alt="Django" width="60px" style="padding:20px; margin:20px;" src="https://user-images.githubusercontent.com/32812860/236620104-d074caac-f559-4d33-978d-ce500eed7f7a.jpg"/>
+<img align="left" alt="Git" width="60px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="60px" style="padding:20px; margin:20px;" src="https://user-images.githubusercontent.com/32812860/236637611-d8fb5c69-1831-47ee-ade3-33996a9da287.png" />
+<img align="left" alt="PostgreSQL" width="60px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="SQLite" width="60px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="HTML" width="60px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="60px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Linux" width="60px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Jupyter" width="60px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="PyCharm" width="60px" style="padding:20px; margin:20px;" src="https://user-images.githubusercontent.com/32812860/236621812-97b00a38-967d-4799-af4e-1adac1c979aa.png" />
+  </td>
+  </tr>
+</table>
+  
+---
 
 ### 📊 Stats
 
@@ -51,3 +56,4 @@ Python developer, building his own version of digital world one step at a time.
 
 Have a good one!
 <p>Mateusz</p>
+</details>
